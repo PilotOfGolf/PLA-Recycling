@@ -7,7 +7,9 @@ TL/DR: A repo containing all of the files for a DIY PLA recycling machine.
   
   Solution A: Pay $22,000 and get an industrial setup. This is not viable for a consumer however because it's just too much. There has to be another solution, right? 
   
-  Solution B: Create an open source PLA recycling machine. This is better, because well... open source. 
+  Solution B: Create an open source PLA recycling machine. 
+  
+  Option B is the better option, because well... open source. Also, doing this means that it is both cheaper for everyone to build, and anyone can design new versions. 
 
   This won't be an easy endevour though. I will need as much help as I can get. So, join the discord server! https://discord.gg/wU8wEXCHkt
   
